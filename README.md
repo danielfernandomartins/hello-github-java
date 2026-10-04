@@ -1,20 +1,28 @@
-# ☕ HelloGitHub
+# ☕ Hello GitHub em Java
 
-Um projeto simples em **Java** criado para testar e aprender o uso do **Git** e **GitHub**.  
-O programa solicita o nome do usuário e exibe uma saudação personalizada no terminal.
+Projeto inicial criado para praticar simultaneamente Java, Git e GitHub.
 
-## 🚀 Como executar o projeto
+## Objetivo
 
-### 🔧 Pré-requisitos
+Aprender o fluxo básico de desenvolvimento versionado: criar código, registrar alterações e publicar um repositório.
 
-Antes de começar, você precisa ter instalado:
-- [Java JDK 17+](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
-- [Git](https://git-scm.com/)
+## O que o programa faz
 
----
+- Recebe o nome do usuário
+- Exibe uma saudação personalizada
 
-### 💻 Passos para rodar
+## Tecnologia
 
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/DFM21031983/HelloGitHub.git
+**Java • Git • GitHub**
+
+## Como explicar em entrevista
+
+> "Esse foi um dos primeiros exercícios usados para consolidar o fluxo completo de Git e GitHub. O código é simples de propósito; o aprendizado principal foi versionamento e publicação."
+
+## Papel no portfólio
+
+Marco inicial da minha evolução com controle de versão.
+
+## Autor
+
+**Daniel Fernando Martins**
